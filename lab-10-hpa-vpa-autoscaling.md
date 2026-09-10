@@ -1,4 +1,4 @@
-# Lab 10 — Configuring Advanced HPA/VPA Autoscaling Patterns
+# Lab 10 — Configuring Advanced HPA/VPA Autoscaling Patterns 
 
 **Day 2 · Security & Scaling/Optimization**
 
