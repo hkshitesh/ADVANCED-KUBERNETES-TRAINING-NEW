@@ -1,4 +1,4 @@
-# Lab 7 — Setting Up Image Scanning and Admission Control (Kyverno)
+# Lab 7 — Setting Up Image Scanning and Admission Control (Kyverno) 
 
 **Day 2 · Security & Scaling/Optimization**
 
