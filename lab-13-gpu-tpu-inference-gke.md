@@ -1,4 +1,4 @@
-# Lab 13 — Deploying a GPU/TPU Inference Service on GKE
+# Lab 13 — Deploying a GPU/TPU Inference Service on GKE 
 
 **Day 3 · AI/ML & Observability**
 
