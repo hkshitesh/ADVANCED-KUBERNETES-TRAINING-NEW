@@ -1,4 +1,4 @@
-# Lab 15 — Instrumenting Workloads with OpenTelemetry for Observability
+# Lab 15 — Instrumenting Workloads with OpenTelemetry for Observability 
 
 **Day 3 · AI/ML & Observability**
 
