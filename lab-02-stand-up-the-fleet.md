@@ -1,4 +1,4 @@
-# Lab 2 — Standing Up the Fleet
+# Lab 2 — Standing Up the Fleet 
 
 **Day 1 · Multi-Cluster & Service Mesh**
 
