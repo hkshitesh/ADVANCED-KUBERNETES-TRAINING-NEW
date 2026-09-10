@@ -1,4 +1,4 @@
-# Lab 5 — Securing and Shaping Traffic
+# Lab 5 — Securing and Shaping Traffic 
 
 **Day 1 · Multi-Cluster & Service Mesh**
 
