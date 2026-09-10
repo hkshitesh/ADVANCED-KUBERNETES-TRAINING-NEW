@@ -1,4 +1,4 @@
-# Lab 11 — Setting Up Cluster Autoscaler / Node Auto-Provisioning with GPU Node Pools
+# Lab 11 — Setting Up Cluster Autoscaler / Node Auto-Provisioning with GPU Node Pools 
 
 **Day 2 · Security & Scaling/Optimization**
 
