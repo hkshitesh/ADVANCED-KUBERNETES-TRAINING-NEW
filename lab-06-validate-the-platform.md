@@ -1,4 +1,4 @@
-# Lab 6 — Validating the Platform
+# Lab 6 — Validating the Platform 
 
 **Day 1 · Multi-Cluster & Service Mesh**
 
