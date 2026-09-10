@@ -1,4 +1,4 @@
-# Lab 9 — Implementing Supply Chain and Runtime Security Controls (Falco)
+# Lab 9 — Implementing Supply Chain and Runtime Security Controls (Falco) 
 
 **Day 2 · Security & Scaling/Optimization**
 
