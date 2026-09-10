@@ -1,4 +1,4 @@
-# Lab 14 — Deploying a Simple ML Inference Pipeline
+# Lab 14 — Deploying a Simple ML Inference Pipeline 
 
 **Day 3 · AI/ML & Observability**
 
