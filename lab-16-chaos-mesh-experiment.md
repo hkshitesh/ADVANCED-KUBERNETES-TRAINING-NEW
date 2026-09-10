@@ -1,4 +1,4 @@
-# Lab 16 — Running a Chaos Engineering Experiment with Chaos Mesh
+# Lab 16 — Running a Chaos Engineering Experiment with Chaos Mesh 
 
 **Day 3 · AI/ML & Observability**
 
