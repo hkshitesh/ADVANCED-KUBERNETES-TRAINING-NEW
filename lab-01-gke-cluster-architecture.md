@@ -1,4 +1,4 @@
-# Lab 1 — GKE Cluster Architecture: Autopilot vs Standard, Private Clusters, and Release Channels
+# Lab 1 — GKE Cluster Architecture: Autopilot vs Standard, Private Clusters, and Release Channels 
 
 **Day 1 · Multi-Cluster & Service Mesh**
 
