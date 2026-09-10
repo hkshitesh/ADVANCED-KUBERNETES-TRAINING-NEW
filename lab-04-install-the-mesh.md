@@ -1,4 +1,4 @@
-# Lab 4 — Installing the Mesh
+# Lab 4 — Installing the Mesh 
 
 **Day 1 · Multi-Cluster & Service Mesh**
 
