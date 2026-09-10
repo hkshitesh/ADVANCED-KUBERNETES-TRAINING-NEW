@@ -1,4 +1,4 @@
-# Lab 3 — Federating a Real Workload Across the Fleet
+# Lab 3 — Federating a Real Workload Across the Fleet 
 
 **Day 1 · Multi-Cluster & Service Mesh**
 
