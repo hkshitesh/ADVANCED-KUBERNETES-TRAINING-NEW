@@ -1,4 +1,4 @@
-# Lab 8 — Configuring GKE Workload Identity Federation and Binary Authorization
+# Lab 8 — Configuring GKE Workload Identity Federation and Binary Authorization 
 
 **Day 2 · Security & Scaling/Optimization**
 
