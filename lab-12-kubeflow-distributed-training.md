@@ -1,4 +1,4 @@
-# Lab 12 — Setting Up a Kubeflow Pipeline for Distributed Training
+# Lab 12 — Setting Up a Kubeflow Pipeline for Distributed Training 
 
 **Day 3 · AI/ML & Observability**
 
